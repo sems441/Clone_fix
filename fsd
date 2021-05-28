@@ -1,0 +1,83 @@
+[33mcommit 69e897dec084b6e937d5b561b4942f8367ee4e80[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32morigin/feature/earlyorde[m[33m)[m
+Author: Oleg <oleg@localhost>
+Date:   Fri Nov 9 02:32:22 2018 +0300
+
+    Чистка кода
+
+[33mcommit b27a32aea0d7c4bc5d051ec164c7548dbcf58e38[m
+Author: Olesya <olesya@localhost>
+Date:   Fri Nov 9 02:30:20 2018 +0300
+
+    Favicon
+
+[33mcommit d9652d35bb46f99813a4a70ed8d1ef678716597c[m
+Author: Oleg <oleg@localhost>
+Date:   Fri Nov 9 02:28:03 2018 +0300
+
+    Возврат к предыдущей версии подписки новостей. Проверка через regexp
+
+[33mcommit b55791692d102a18cd62e7d92deb915119f2c8b2[m
+Author: Oleg <oleg@localhost>
+Date:   Fri Nov 9 02:27:06 2018 +0300
+
+    Возврат к предыдущей версии подписки новостей. Проверка через regexp
+
+[33mcommit d4f47cf40ddb9b0da651bba276949c9ca147dd9d[m
+Author: Anton <anton@localhost>
+Date:   Fri Nov 9 02:22:13 2018 +0300
+
+    Fix для robots.txt
+
+[33mcommit 1efec57f7c0ad0b8f485825bd278d6e9bf5451b5[m
+Author: Anton <anton@localhost>
+Date:   Fri Nov 9 02:21:42 2018 +0300
+
+    Robots.txt
+
+[33mcommit 8cc958dee52601bbbfb637534c5e08c45e5de663[m
+Author: Masha <masha@localhost>
+Date:   Fri Nov 9 02:19:15 2018 +0300
+
+    Подписка на новости - обработка событий ввода
+
+[33mcommit eb14c7c25d3cf35b71b3c38331d059bd60a97b55[m
+Author: Olga <olga@localhost>
+Date:   Fri Nov 9 02:14:08 2018 +0300
+
+    Удаление счётчиков
+
+[33mcommit a051f1d507e065ca0f70b6a5c8bf34ea71e00d49[m
+Author: Petya <petya@localhost>
+Date:   Fri Nov 9 02:13:21 2018 +0300
+
+    Yandex Metrika
+
+[33mcommit b3c34b374cfecede2603fce97f8933c31509aa1e[m
+Author: Petya <petya@localhost>
+Date:   Fri Nov 9 02:10:30 2018 +0300
+
+    Google Analytics Fix
+
+[33mcommit c2e06a49aa05a80378f8825a113d2e2ca5694d00[m
+Author: Oleg <oleg@localhost>
+Date:   Fri Nov 9 02:09:25 2018 +0300
+
+    Обработка подписки на новости через JS
+
+[33mcommit f878bfea948b6ff6857cf90da58ae05bea6d49cd[m
+Author: Petya <petya@localhost>
+Date:   Fri Nov 9 01:57:00 2018 +0300
+
+    Виджет подписки на новости
+
+[33mcommit 1f983bdde9e5a6457cb36df4bd40c694b0f1887c[m
+Author: Petya <petya@localhost>
+Date:   Fri Nov 9 01:43:44 2018 +0300
+
+    Добавил Google Analytics и отформатировал код
+
+[33mcommit 7e7bc1ad5cdaf02d66e7c7af13f43dbe6ed71ea8[m
+Author: Vasya <vasya@localhost>
+Date:   Fri Nov 9 01:32:54 2018 +0300
+
+    Первая версия
